@@ -79,10 +79,6 @@ moodify/
 
 ---
 
-## 🌟 Demo Screenshot (optional)
-
-
----
 
 ## 📌 Future Improvements
 
